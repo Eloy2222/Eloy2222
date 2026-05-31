@@ -18,7 +18,7 @@
 - Apasionado por aprender.
 - Actualmente aprendiendo Java para aplicaciones Android.
 - Esperando mi primer experiencia como dev.
-- haciendo un curso en paralelo de Front-End en Udemy, proyecto que aprendi gracias a este:[https://tourmaline-stroopwafel-fae4bd.netlify.app/cursos].
+- haciendo un curso en paralelo de Front-End en Udemy, proyecto que realicé gracias a este:[https://tourmaline-stroopwafel-fae4bd.netlify.app/cursos].
 
 <br><br>
 <!--
